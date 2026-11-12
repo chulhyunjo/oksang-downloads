@@ -16,3 +16,5 @@
 [최신 미리보기 다운로드](https://github.com/chulhyunjo/oksang-downloads/releases)
 
 이 저장소는 설치 파일과 배포 설명을 제공합니다. SHA256SUMS.txt에서 파일 해시를 확인할 수 있습니다.
+
+낙서 쪽지: 같은 모임에서 캐릭터를 우클릭해 쪽지를 그리고 보낼 수 있습니다. 친구별 최신 쪽지와 내 쪽지를 봉투에서 다시 보거나 재생할 수 있고, 모임에서 나가면 화면의 쪽지가 정리됩니다. [최신 사용법](https://oksang-one.vercel.app/desktop#guide)을 확인해 주세요.
